@@ -43,6 +43,9 @@ github:
  
 gitlab:
  - robocodez/robowarriors
+ 
+itch.io:
+ - jam/gamecraft2016/rate/101696
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
