@@ -51,6 +51,6 @@ itch.io:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Mobile Application Development</strong>: I am experienced in a variety of Android API’s. I have recently interned at Markedshot, a Singapore-based start-up that crowdsources photographs, which relied on Android Studios as their main development tool to manage their mobile application for Android phones in addition to others. I also have exprience in the use of . <br/><br/>
+   <strong>Mobile Application Development</strong>: I am experienced in a variety of Android API’s. I have recently interned at Markedshot, a Singapore-based start-up that crowdsources photographs, which relied on Android Studios as their main development tool to manage their mobile application for Android phones in addition to others. I also have exprience in the use of open source frameworks like androidannotations that makes the code cleaner and speed up development process. <br/><br/>
    <strong>Web Development</strong>: Some experience in HTML5, CSS and Javascript. Also worked with Bootstrap framework before.<br/><br/>
-   <strong>Game Development</strong>: Experienced in using Unity as a game development tools. <br/><br/>
+   <strong>Game Development</strong>: Experienced in using Unity and Android Studio as a game development tool. Also worked with libraries like LibGDX to recreate popular side-scrolling mobile games like FlappyBird<br/><br/>
